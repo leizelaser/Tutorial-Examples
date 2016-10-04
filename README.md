@@ -3,8 +3,8 @@ Tutorial or Examples of the language/software that I found useful
 
 
 For example, in editing .md files:
-[Markdown Tutorial] www.markdowntutorial.com
-[Markdown Summary]https://guides.github.com/features/mastering-markdown/
+[Markdown Tutorial](www.markdowntutorial.com)
+[Markdown Summary](https://guides.github.com/features/mastering-markdown/)
 
 \# is for Heading
 \#\# is for second heading| \# can be accumulated at most 6 times
@@ -23,4 +23,4 @@ single \- \* for enumeration-item
 
 \- [x] is a complete mark, \- [] is also available
 
-\-\-\-\-\-\-\-\-\-\-\-\- is for 
+\-\-\-\-\-\-\-\-\-\-\-\- is for breaking lines
